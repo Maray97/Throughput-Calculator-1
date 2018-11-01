@@ -1,4 +1,4 @@
-# Throughput-Calculaor
+# Throughput-Calculator
 A simple throughput calculator I threw together in 45 minutes for my Introduction to Networks (COMP 4320) class.
 
 This HTML file uses Javascript to calculate the Propagation Time, Transmission Time, Throughput, and Efficiency based on the distance, propagation speed, frame size, and bit rate between any sender and receiver.
